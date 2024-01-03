@@ -1,4 +1,4 @@
-My Neovim configuration directory.
+My Neovim configuration directory
 
 # Quickstart
 
